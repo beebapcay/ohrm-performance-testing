@@ -1,0 +1,17 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+http://localhost/orangehrm-4.5/symfony/web/index.php/auth/login,100,17586,1220,42914,10921.64,1.000%,2.10633,2458.33,45.88,1195125.6
+http://localhost/orangehrm-4.5/symfony/web/index.php/auth/validateCredentials,100,29907,4168,57811,9385.60,0.000%,1.10664,272.58,41.20,252223.3
+http://localhost/orangehrm-4.5/symfony/web/index.php/dashboard/employeeDistribution,100,17295,226,38982,8988.82,0.000%,.90663,114.88,2.52,129757.0
+http://localhost/orangehrm-4.5/symfony/web/index.php/dashboard/pendingLeaveRequests,100,1930,135,21623,3729.06,1.000%,.99800,1.65,0.52,1690.1
+http://localhost/orangehrm-4.5/symfony/web/webres_5f465b030eb735.13202106/orangehrmDashboardPlugin/js/flot/jquery.flot.min.js,100,10,0,695,69.30,2.000%,.99841,0.24,0.73,243.7
+http://localhost/orangehrm-4.5/symfony/web/webres_5f465b030eb735.13202106/orangehrmDashboardPlugin/js/flot/jquery.flot.pie.min.js,100,115,0,6356,802.44,0.000%,.99840,0.20,0.75,206.0
+http://localhost/orangehrm-4.5/symfony/web/webres_5f465b030eb735.13202106/orangehrmDashboardPlugin/js/flot/JUMFlot.min.js,100,1,0,11,1.17,0.000%,.99839,0.20,0.74,206.0
+http://localhost/orangehrm-4.5/symfony/web/webres_5f465b030eb735.13202106/orangehrmDashboardPlugin/js/graph-visualizer/pie-chart.js,100,1,0,3,0.55,0.000%,.99839,0.20,0.75,205.0
+login,100,66848,22688,120003,20788.06,3.000%,.79953,1233.38,52.20,1579656.7
+http://localhost/orangehrm-4.5/symfony/web/index.php/admin/viewAdminModule,100,33833,3624,72843,13377.81,5.000%,.66312,49.22,23.60,76012.4
+http://localhost/orangehrm-4.5/symfony/web/index.php/admin/viewJobTitleList,100,35879,13744,70375,10471.64,13.000%,.55857,38.50,19.54,70584.2
+http://localhost/orangehrm-4.5/symfony/web/index.php/admin/saveJobTitle,100,31708,13185,67738,9934.61,31.000%,.63947,41.76,21.22,66877.3
+navigate-add-job,100,101421,53299,140515,17304.89,40.000%,.48677,101.48,50.50,213473.9
+http://localhost/orangehrm-4.5/symfony/web/index.php/admin/saveJobTitle/jobTitleId/,100,24394,3272,58552,9680.28,30.000%,1.03627,87.52,39.39,86484.9
+add-job,100,24394,3272,58552,9680.28,30.000%,1.03499,87.41,39.34,86484.9
+TOTAL,1500,25688,0,140515,28982.52,10.400%,6.42024,1571.30,177.24,250615.4

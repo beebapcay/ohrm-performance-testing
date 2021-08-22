@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+http://localhost/orangehrm-4.5/symfony/web/index.php/auth/login,100,14863,220,37263,11812.54,29.000%,2.59242,3006.33,55.66,1187491.9
+http://localhost/orangehrm-4.5/symfony/web/index.php/auth/validateCredentials,100,15075,330,33778,8270.85,35.000%,1.86916,118.27,44.71,64791.4
+login,100,29938,783,53562,17048.40,52.000%,1.85970,2274.29,84.41,1252283.3
+TOTAL,300,19959,220,53562,14696.93,38.667%,5.57911,4548.59,168.82,834855.5
